@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import KanbanBoard from './KanbanBoard';
-import '../../public/css/styles.css';
+import styles from 'css/styles.css';
+
 
 let cardsList = [
     {
